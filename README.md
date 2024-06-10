@@ -19,7 +19,11 @@ We would like to thank the authors of the original projects for their great work
 
 ## References
 [1] Nerfstudio: https://github.com/nerfstudio-project/nerfstudio
+
 [2] PhysGaussian: https://github.com/XPandora/PhysGaussian
+
 [3] Schonberger J L, Frahm J M. Structure-from-motion revisited[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 4104-4113.
+
 [4] Mildenhall B, Srinivasan P P, Tancik M, et al. Nerf: Representing scenes as neural radiance fields for view synthesis[J]. Communications of the ACM, 2021, 65(1): 99-106.
+
 [5] Xie T, Zong Z, Qiu Y, et al. Physgaussian: Physics-integrated 3d gaussians for generative dynamics[J]. arXiv preprint arXiv:2311.12198, 2023.
